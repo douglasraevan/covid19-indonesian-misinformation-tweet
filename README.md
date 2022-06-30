@@ -1,4 +1,4 @@
-# COVID-19 Indonesian Misinformation Tweet
+# COVID-19 Indonesian Misinformation Tweets
 
 This is a repository to store an annotated dataset for COVID-19 Indonesian Misinformation Tweets. The tweet collection ranges from January 27, 2020 until February 7, 2021. 
 
