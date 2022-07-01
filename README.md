@@ -2,6 +2,10 @@
 
 This is a repository to store an annotated dataset for COVID-19 Indonesian Misinformation Tweets. The tweet collection ranges from January 27, 2020 until February 7, 2021. 
 
+## Paper
+
+This repository is a byproduct of our research in which the preprint can be accessed on https://arxiv.org/abs/2206.15359. Please cite this paper accordingly if you plan to use this dataset for your publications.
+
 ## Data Collection
 
 The original tweet data were collected through two methods:
@@ -28,6 +32,21 @@ Following Twitter API's developer policy, we only publish the tweet ID and its a
 | <tweet_id_2> | <label_2> |
 | ...          | ...       |
 | <tweet_id_N> | <label_N> |
+
+## How to Cite
+
+### Bibtex
+
+```
+@misc{faisal2022twostage,
+      title={Two-Stage Classifier for COVID-19 Misinformation Detection Using BERT: a Study on Indonesian Tweets}, 
+      author={Douglas Raevan Faisal and Rahmad Mahendra},
+      year={2022},
+      eprint={2206.15359},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 
